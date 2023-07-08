@@ -1,0 +1,41 @@
+h1{
+    flex: 8;
+    font-size: 200%;  font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #6F4E37;
+    text-align: left;
+
+}
+
+.container{
+    display: flex;
+    border: 1px solid #ccc;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a1{
+    flex: 0.2;
+margin: 0 5px;
+padding: 5px 15px;
+border-radius: 3px 3px 0 0;
+color: rgb(249, 3, 3);
+text-decoration: none ;
+
+}
+.a2{  flex: 0.2;
+    margin: 0 5px;
+    padding: 5px 15px;
+    border-radius: 3px 3px 0 0;
+    color: rgb(249, 3, 3);
+    text-decoration: none ;
+    
+}
+.a3{  flex: 0.2;
+    margin: 0 5px;
+    padding: 5px 15px;
+    border-radius: 3px 3px 0 0;
+    color: rgb(249, 3, 3);
+    text-decoration: none ;
+    
+    }
+    

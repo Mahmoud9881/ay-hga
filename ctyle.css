@@ -1,0 +1,65 @@
+.img{
+    
+    height: 5px;
+    width: 5px;
+}
+h1{
+    font-size: 40px;
+}
+.controls{
+    align-content: right;
+    font: 1em sans-serif;
+}
+.mahmoud{
+    clear:both;
+    overflow:auto;
+    .logo img(float: left;)
+
+    
+}
+a:hover{
+    background-color: #000;
+
+}
+a:link{
+    background-color: aquamarine;
+}
+button:hover{
+    background-color: aqua;
+}
+#body{
+    align-self: start;
+}
+button{
+    background-color: #000;
+    color: white;
+  
+  
+  
+
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    background-color: aqua;
+}
+.logo{
+    width: 20%; 
+    height: 20%;
+
+}
+.navbar{
+    text-align: right;
+    width: 100%;
+    
+}
+  
+  
+#ids{
+    text-align: right;
+    background-color: aliceblue;
+    color: #000;
+   
+  
+}  
+
